@@ -1,2 +1,4 @@
 error.log
 
+*.log
+dir/
