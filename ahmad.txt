@@ -1,2 +1,1 @@
- renamed:    ahmad -> ahmad.txt
-editing this file so i an see how git hekout works
+ renamed:    ahmad -> ahmad.t
